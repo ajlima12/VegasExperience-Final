@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741722450327",
+    "project_id": "vegasexperience-18356",
+    "storage_bucket": "vegasexperience-18356.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741722450327:android:66de34f3636ec0af91fcd2",
+        "android_client_info": {
+          "package_name": "com.vegas1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741722450327-fjftchg44bqohvempomeiisbd372ug7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO6K9RaGZuqY9OEQpJqn0GYU1o3NF4JLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741722450327-fjftchg44bqohvempomeiisbd372ug7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
